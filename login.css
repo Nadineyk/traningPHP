@@ -1,0 +1,200 @@
+label{
+    display: block;
+    margin : 1rem auto auto auto ;
+    color:white;
+    height: 4rem;
+    
+
+}
+input{
+    margin:auto;
+    width: 80%;
+    height: 1.5rem;
+    border-radius: 6px;
+    border: white .5px  solid;
+    background-color: #fcfcfc;
+    box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+.information{
+    padding-top: 6px;
+        background-color: red;
+        width: 30vw;
+        height: 80vh;
+        text-align: center;
+        margin : 50px auto ;
+        border-radius: 6px;
+        z-index: 1000;
+}
+button{
+    margin-top: 2rem;
+    width: 50%;
+    height: 2rem;
+    border-radius: 8px;
+    border: none;
+    background-color:rgb(85, 255, 85);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    color: #fcfcfc;
+}
+body{
+    background-color:  #ffeecc;
+}
+
+
+
+.circle {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 20vh;
+    left: 20vw;
+ 
+  }
+
+  .Samer {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 30%;
+    top: 85vh;
+    left: 10vw;
+ 
+  }
+
+  .Nadine {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 75vh;
+    left: 65vw;
+ 
+  }
+
+
+  .Iskander {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 50vh;
+    left: 70vw;
+ 
+  }
+
+  .Mohamed {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 15vh;
+    left: 80vw;
+ 
+  }
+
+  .Najla {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 95vh;
+    left: 35vw;
+ 
+  }
+
+
+  .Marwa {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 75vh;
+    left: 85vw;
+ 
+  }
+
+
+
+  .coders {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    top: 66vh;
+    left: 97vw;
+ 
+  }
+
+
+  .a {
+    position: absolute;
+    width: 5px;
+    height: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid white;
+    top: 10vh;
+    left: 10vw;
+  }
+
+  
+  .b {
+    position: absolute;
+    width: 5px;
+    height: 50px; 
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid white;
+    top: 75vh;
+    left: 85vw;
+  }
+
+
+  
+  .c {
+    position: absolute;
+    width: 5px;
+    height: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid white;
+    top: 95vh;
+    left: 85vw;
+  }
+
+
+
+
+  
+ .f {
+    position: absolute;
+    width: 5px;
+    height: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid white;
+    top: 95vh;
+    left: 60vw;
+  }
+
+
+
+  
+  .g {
+    position: absolute;
+    width: 5px;
+    height: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid white;
+    top: 85vh;
+    left: 50vw;
+  }

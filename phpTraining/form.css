@@ -1,0 +1,41 @@
+label{
+    display: block;
+    margin : 1.9rem auto auto auto ;
+}
+form{
+    display: block;
+    background-color: #e3e3e3;
+    width: 35vw;
+    height: 60vh;
+    text-align: center;
+    margin : auto ;
+    border-radius: 6px;
+}
+input{
+    margin-top: 3px;
+    width: 80%;
+    height: 1.5rem;
+    border-radius: 6px;
+    border: gray .5px  solid;
+    background-color: #fcfcfc;
+    box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+button{
+    margin-top: 2rem;
+    width: 50%;
+    height: 2rem;
+    border-radius: 8px;
+    border: none;
+    background-color: #79bd88;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    color: #fcfcfc;
+}
+
+button:hover{
+    margin-top: 1.8rem;
+    width: 52%;
+    height: 2.5rem;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.75);
+    background-color: #fcfcfc;
+    color: #79bd88;
+}
